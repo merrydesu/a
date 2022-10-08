@@ -1,0 +1,1 @@
+music.magicWand.play()
